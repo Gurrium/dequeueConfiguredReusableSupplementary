@@ -13,6 +13,8 @@
 		E3C73F41263DA7770000C0D3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E3C73F3F263DA7770000C0D3 /* Main.storyboard */; };
 		E3C73F43263DA7790000C0D3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E3C73F42263DA7790000C0D3 /* Assets.xcassets */; };
 		E3C73F46263DA7790000C0D3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E3C73F44263DA7790000C0D3 /* LaunchScreen.storyboard */; };
+		E3C73F4F263DA8190000C0D3 /* SomeFooterView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3C73F4D263DA8190000C0D3 /* SomeFooterView.swift */; };
+		E3C73F50263DA8190000C0D3 /* SomeFooterView.xib in Resources */ = {isa = PBXBuildFile; fileRef = E3C73F4E263DA8190000C0D3 /* SomeFooterView.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		E3C73F42263DA7790000C0D3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E3C73F45263DA7790000C0D3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E3C73F47263DA7790000C0D3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E3C73F4D263DA8190000C0D3 /* SomeFooterView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SomeFooterView.swift; sourceTree = "<group>"; };
+		E3C73F4E263DA8190000C0D3 /* SomeFooterView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = SomeFooterView.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +64,8 @@
 				E3C73F3B263DA7770000C0D3 /* SceneDelegate.swift */,
 				E3C73F3D263DA7770000C0D3 /* ViewController.swift */,
 				E3C73F3F263DA7770000C0D3 /* Main.storyboard */,
+				E3C73F4D263DA8190000C0D3 /* SomeFooterView.swift */,
+				E3C73F4E263DA8190000C0D3 /* SomeFooterView.xib */,
 				E3C73F42263DA7790000C0D3 /* Assets.xcassets */,
 				E3C73F44263DA7790000C0D3 /* LaunchScreen.storyboard */,
 				E3C73F47263DA7790000C0D3 /* Info.plist */,
@@ -125,6 +131,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E3C73F46263DA7790000C0D3 /* LaunchScreen.storyboard in Resources */,
+				E3C73F50263DA8190000C0D3 /* SomeFooterView.xib in Resources */,
 				E3C73F43263DA7790000C0D3 /* Assets.xcassets in Resources */,
 				E3C73F41263DA7770000C0D3 /* Main.storyboard in Resources */,
 			);
@@ -138,6 +145,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E3C73F3E263DA7770000C0D3 /* ViewController.swift in Sources */,
+				E3C73F4F263DA8190000C0D3 /* SomeFooterView.swift in Sources */,
 				E3C73F3A263DA7770000C0D3 /* AppDelegate.swift in Sources */,
 				E3C73F3C263DA7770000C0D3 /* SceneDelegate.swift in Sources */,
 			);
